@@ -2,22 +2,20 @@
 
 # MIMI – AI Voice Learning Tutor
 
-### Your Intelligent AI Learning Companion
+### Intelligent AI Learning Companion
 
-<img src="./mimi-demo.png.jpeg" alt="MIMI AI Voice Tutor" width="650"/>
+<img src="./mimi-demo.png.jpeg" alt="MIMI AI Voice Tutor" width="700"/>
 
 <br>
 
 <p>
   <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Voice%20Assistant-Enabled-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Voice_Assistant-Enabled-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Education-Smart-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-Web-purple?style=for-the-badge">
 </p>
 
-### Learn • Speak • Understand • Grow
-
-An AI-powered voice tutor that delivers personalized learning through natural conversations, interactive quizzes, educational videos, AI-generated study plans, and intelligent progress tracking.
+AI-powered voice learning platform designed to deliver personalized education through natural conversations, intelligent tutoring, quizzes, learning games, educational videos, and real-time progress tracking.
 
 **Portfolio:** https://innovativeais.com/others/portfolio-mimy.php
 
@@ -25,28 +23,42 @@ An AI-powered voice tutor that delivers personalized learning through natural co
 
 ---
 
-# About MIMI
+## Table of Contents
 
-MIMI is an intelligent AI voice tutor developed under the **ALEXI AI** ecosystem to make education more interactive and personalized.
-
-Students can communicate naturally with MIMI using voice, ask questions, receive detailed explanations, solve quizzes, watch recommended educational videos, play learning games, and monitor their academic progress—all from a single platform.
-
-The goal of MIMI is to make learning engaging, adaptive, and accessible for learners of every age.
+- About
+- Features
+- Learning Workflow
+- Supported Subjects
+- Student Dashboard
+- Core Modules
+- Technology Stack
+- Future Enhancements
+- License
 
 ---
 
-# Key Features
+# About
 
-| Feature | Description |
+MIMI is an AI-powered voice learning platform developed under the **ALEXI AI** ecosystem.
+
+The platform provides students with an intelligent tutor capable of explaining concepts through natural conversations, answering questions, recommending educational content, generating quizzes, creating personalized study plans, and monitoring learning progress.
+
+MIMI adapts to every learner's pace, making education interactive, personalized, and accessible.
+
+---
+
+# Features
+
+| Module | Description |
 |---------|-------------|
-| AI Voice Tutor | Natural human-like conversations |
-| Personalized Lessons | Adaptive learning based on student level |
-| Quiz Generator | Dynamic quizzes after every lesson |
+| Voice Assistant | Human-like conversations with students |
+| Smart Learning | Personalized lessons based on learning level |
+| Quiz Generator | AI-generated quizzes after every lesson |
 | Learning Games | Interactive educational activities |
-| YouTube Recommendations | Curated educational videos |
-| Progress Analytics | Student performance tracking |
-| Study Planner | AI-generated study schedules |
-| Multi-language Support | Learn in multiple languages |
+| Video Recommendations | Curated educational videos |
+| Study Planner | Personalized study schedules |
+| Progress Analytics | Performance tracking and reports |
+| Multi-language Support | Learning in multiple languages |
 
 ---
 
@@ -55,30 +67,21 @@ The goal of MIMI is to make learning engaging, adaptive, and accessible for lear
 ```mermaid
 flowchart TD
 
-A(Student)
-A --> B(Voice Conversation)
+Student --> Voice_Input
+Voice_Input --> Speech_Recognition
+Speech_Recognition --> MIMI_AI
 
-B --> C(Speech Recognition)
+MIMI_AI --> Lessons
+MIMI_AI --> Quizzes
+MIMI_AI --> Learning_Games
+MIMI_AI --> Video_Recommendations
 
-C --> D(MIMI AI Engine)
+Lessons --> Progress
+Quizzes --> Progress
+Learning_Games --> Progress
+Video_Recommendations --> Progress
 
-D --> E(Personalized Lesson)
-
-D --> F(Quiz Generator)
-
-D --> G(Learning Games)
-
-D --> H(YouTube Suggestions)
-
-E --> I(Student Progress)
-
-F --> I
-
-G --> I
-
-H --> I
-
-I --> J(Performance Analytics)
+Progress --> Analytics
 ```
 
 ---
@@ -98,63 +101,90 @@ I --> J(Performance Analytics)
 - History
 - Geography
 - General Knowledge
-- Competitive Exams
+- Competitive Examination Preparation
 
 ---
 
 # Student Dashboard
 
 ```text
+----------------------------------------------------
 
+Lessons Completed      ████████████   88%
 
-Lessons Completed      ████████████ 88%
+Quiz Accuracy          ███████████    93%
 
-Quiz Accuracy          ██████████   93%
-
-Learning Games         █████████    82%
+Learning Games         █████████      82%
 
 Learning Streak        24 Days
 
 Study Time             51 Hours
 
-Performance            Excellent
+Overall Performance    Excellent
 
-
+----------------------------------------------------
 ```
 
 ---
 
 # Core Modules
 
-- Student Profile
-- AI Voice Assistant
-- Smart Learning
+- Student Profile Management
+- AI Voice Tutor
+- Smart Learning Engine
 - Quiz Generator
 - Learning Games
-- Progress Dashboard
 - Study Planner
-- Video Recommendation
+- Progress Dashboard
+- Educational Video Recommendations
 - Notifications
-
-
-```
+- Learning Analytics
 
 ---
 
-License
+# Technology Stack
 
-This project is licensed under the MIT License.
+| Category | Technologies |
+|----------|--------------|
+| Frontend | HTML5, CSS3, JavaScript, Bootstrap |
+| Backend | Python, Django, FastAPI |
+| AI | OpenAI, Google Gemini, Speech-to-Text, Text-to-Speech |
+| Database | SQLite, MySQL, PostgreSQL |
+| APIs | REST API, YouTube API |
+
+---
+
+# Future Enhancements
+
+- Mobile Application
+- Offline Learning
+- Parent Dashboard
+- Teacher Dashboard
+- Live Classes
+- AI Homework Assistant
+- Gamification
+- Voice Cloning
+- Regional Language Support
+- Advanced Learning Analytics
+
+---
+
+# License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
 
 ---
 
 <div align="center">
 
-## Built for the Future of AI-Powered Education
+## ALEXI AI
 
-### ALEXI AI
+Building the future of education through intelligent, AI-powered voice learning.
 
-Empowering learners through intelligent voice-based education.
+MIMI is designed to make learning more interactive, personalized, and accessible by combining conversational AI with modern educational technology.
 
-If you found this project helpful, consider giving it a star.
+If you found this project useful, please consider giving it a **Star** on GitHub. Your support helps the project grow and motivates future development.
+
+**Thank you for visiting the repository.**
 
 </div>
