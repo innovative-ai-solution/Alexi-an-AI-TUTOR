@@ -108,7 +108,7 @@ Progress --> Analytics
 # Student Dashboard
 
 ```text
-----------------------------------------------------
+
 
 Lessons Completed      ████████████   88%
 
@@ -122,7 +122,7 @@ Study Time             51 Hours
 
 Overall Performance    Excellent
 
-----------------------------------------------------
+
 ```
 
 ---
@@ -140,17 +140,7 @@ Overall Performance    Excellent
 - Notifications
 - Learning Analytics
 
----
 
-# Technology Stack
-
-| Category | Technologies |
-|----------|--------------|
-| Frontend | HTML5, CSS3, JavaScript, Bootstrap |
-| Backend | Python, Django, FastAPI |
-| AI | OpenAI, Google Gemini, Speech-to-Text, Text-to-Speech |
-| Database | SQLite, MySQL, PostgreSQL |
-| APIs | REST API, YouTube API |
 
 ---
 
@@ -179,7 +169,7 @@ For questions, collaborations, or business inquiries, feel free to reach out.
 |---------|---------|
 | Website | https://innovativeais.com |
 | Email | info@innovativeais.com |
-| LinkedIn | https://www.linkedin.com/company/innovative-ai-solution-475489323 |
+| LinkedIn | [https://www.linkedin.com/company/innovative-ai-solution-475489323](https://www.linkedin.com/in/innovative-ai-solution-475489323/) |
 
 ---
 
@@ -196,14 +186,6 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 Building the future of education through intelligent, AI-powered voice learning.
 
 MIMI is designed to make learning more interactive, personalized, and accessible through conversational AI, adaptive learning, and modern educational technology.
-
-For project inquiries, collaborations, or custom AI solutions, visit **Innovative AI Solutions**.
-
-**Website:** https://innovativeais.com
-
-**Email:** info@innovativeais.com
-
-**LinkedIn:** https://www.linkedin.com/company/innovative-ai-solution-475489323
 
 If you found this project useful, consider giving it a **Star** on GitHub.
 
