@@ -105,7 +105,7 @@ I --> J(Performance Analytics)
 # Student Dashboard
 
 ```text
----------------------------------------------
+
 
 Lessons Completed      ████████████ 88%
 
@@ -119,7 +119,7 @@ Study Time             51 Hours
 
 Performance            Excellent
 
----------------------------------------------
+
 ```
 
 ---
@@ -136,119 +136,3 @@ Performance            Excellent
 - Video Recommendation
 - Notifications
 
----
-
-# Technology Stack
-
-| Frontend | Backend | AI | Database |
-|-----------|----------|----|----------|
-| HTML5 | Python | OpenAI / Gemini | SQLite / MySQL |
-| CSS3 | Django | Speech-to-Text | PostgreSQL |
-| JavaScript | FastAPI | Text-to-Speech | Firebase |
-| Bootstrap | REST APIs | LLM | |
-
----
-
-# Project Structure
-
-```text
-MIMI/
-│
-├── README.md
-├── assets/
-│   ├── images/
-│   ├── audio/
-│   └── models/
-├── backend/
-├── frontend/
-├── api/
-├── static/
-├── templates/
-├── requirements.txt
-└── manage.py
-```
-
----
-
-# Security
-
-- Secure Authentication
-- Encrypted User Data
-- Session Management
-- API Security
-- Input Validation
-- Role-Based Access
-- Secure File Upload
-
----
-
-# Why MIMI?
-
-- Personalized Learning
-- AI Voice Conversations
-- Interactive Quizzes
-- Adaptive Study Plans
-- Educational Games
-- Smart Recommendations
-- Progress Tracking
-- Modern Learning Experience
-
----
-
-# Future Enhancements
-
-- Android & iOS Application
-- AI Face Emotion Detection
-- Regional Language Support
-- Live Teacher Assistance
-- AR / VR Learning
-- Memory-based Revision
-- Gamification & Rewards
-- AI Homework Assistant
-
----
-
-# Screenshots
-
-Create a folder named **screenshots** and add images like:
-
-```text
-screenshots/
-├── dashboard.png
-├── voice-chat.png
-├── quiz.png
-├── progress.png
-└── study-plan.png
-```
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-1. Fork this repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Push your branch.
-5. Open a Pull Request.
-
----
-
-# License
-
-This project is licensed under the MIT License.
-
----
-
-<div align="center">
-
-## Built for the Future of AI-Powered Education
-
-### ALEXI AI
-
-Empowering learners through intelligent voice-based education.
-
-If you found this project helpful, consider giving it a star.
-
-</div>
