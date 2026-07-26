@@ -169,6 +169,20 @@ Overall Performance    Excellent
 
 ---
 
+---
+
+# Contact
+
+For questions, collaborations, or business inquiries, feel free to reach out.
+
+| Contact | Details |
+|---------|---------|
+| Website | https://innovativeais.com |
+| Email | info@innovativeais.com |
+| LinkedIn | https://www.linkedin.com/company/innovative-ai-solution-475489323 |
+
+---
+
 # License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
@@ -181,10 +195,18 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 Building the future of education through intelligent, AI-powered voice learning.
 
-MIMI is designed to make learning more interactive, personalized, and accessible by combining conversational AI with modern educational technology.
+MIMI is designed to make learning more interactive, personalized, and accessible through conversational AI, adaptive learning, and modern educational technology.
 
-If you found this project useful, please consider giving it a **Star** on GitHub. Your support helps the project grow and motivates future development.
+For project inquiries, collaborations, or custom AI solutions, visit **Innovative AI Solutions**.
 
-**Thank you for visiting the repository.**
+**Website:** https://innovativeais.com
+
+**Email:** info@innovativeais.com
+
+**LinkedIn:** https://www.linkedin.com/company/innovative-ai-solution-475489323
+
+If you found this project useful, consider giving it a **Star** on GitHub.
+
+Thank you for visiting the repository.
 
 </div>
