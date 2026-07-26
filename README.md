@@ -136,3 +136,25 @@ Performance            Excellent
 - Video Recommendation
 - Notifications
 
+
+```
+
+---
+
+License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+## Built for the Future of AI-Powered Education
+
+### ALEXI AI
+
+Empowering learners through intelligent voice-based education.
+
+If you found this project helpful, consider giving it a star.
+
+</div>
